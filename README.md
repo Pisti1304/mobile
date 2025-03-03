@@ -1,1 +1,2 @@
-# mobile
+# gameboy
+vizsga szeru
