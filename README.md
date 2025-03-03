@@ -1,2 +1,0 @@
-# gameboy
-vizsga szeru
